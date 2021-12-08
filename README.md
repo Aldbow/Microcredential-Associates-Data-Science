@@ -1,0 +1,2 @@
+# Microcredential-Associates-Data-Science
+Associate Data Science, is a micro class facilitated by the ministry of education that focuses on learning data science to build data science skills that are currently in high demand in the industry.  This class is divided into several universities that host data science learning. with lecturers from the host university, and I was included in the data science class presented by the university of Indonesia.
